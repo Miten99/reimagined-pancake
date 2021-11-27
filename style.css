@@ -1,0 +1,64 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.OpenTab1 
+{
+    margin-top: 100px;
+    border-radius: 10px;
+    font-size: 26px;
+}
+
+.OpenTab2 
+{
+    margin-top: 200px;
+    border-radius: 10px;
+    font-size: 26px;
+}
+.OpenTab3 
+{
+    margin-top: 300px;
+    border-radius: 10px;
+    font-size: 26px;
+}
+.OpenTab4 
+{
+    margin-top: 400px;
+    border-radius: 10px;
+    font-size: 26px;
+}
+.OpenTab5 
+{
+    margin-top: 500px;
+    border-radius: 10px;
+    font-size: 26px;
+}
+
+.status 
+{
+    margin-bottom:50px;
+}
+
+#divid{
+text-align: center;
+}
